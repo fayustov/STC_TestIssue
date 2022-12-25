@@ -11,7 +11,7 @@
 
 `pytest --browser yandex` – Yandex Browser
 
-`pytest --browser sagari` – Safari
+`pytest --browser safari` – Safari
 
 ### Команда для запуска тестов в headless-режиме:
 
